@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimario">#3529B1</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="azul_fuerte">#3023AE</color>
+    <color name="azul_claro">#49A6EF</color>
+    <color name="azul_claro_light">#5249A6EF</color>
+
+    <color name="login_detalles_form">#ccffffff</color>
+    <color name="login_luz_detalles_form">#1affffff</color>
+    <color name="login_mediano_detalles_form">#66ffffff</color>
+</resources>
